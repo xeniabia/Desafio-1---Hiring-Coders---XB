@@ -1,0 +1,46 @@
+body{
+}
+
+h1{
+	color: #FFDB58; 
+    opacity = 0.5;
+    color: rgba(0, 0, 0, 0.5);
+
+    position: absolute; 
+	left: 550px; /* posiciona para a esquerda */ 
+	top: 00px; /* posicion 70px para baixo */
+    
+
+    font-size: 30pt;
+}
+
+h2{
+	position: absolute; 
+	left: 360px; /* posiciona para a esquerda */ 
+	top: 525px; /* posicion 70px para baixo */
+}
+
+h3{
+	position: absolute; 
+	left: 315px; /* posiciona para a esquerda */ 
+	top: 565px; /* posiciona para baixo */
+}
+
+h4{
+	position: absolute; 
+	left: 400px; /* posiciona para a esquerda */ 
+	top: 585px; /* posiciona  para baixo */
+	font-size: 20pt;
+}
+
+form{
+	position: absolute; 
+	left: 735px; /* posiciona para a esquerda */ 
+	top: 585px; /* posiciona  para baixo */
+}
+
+div{
+	position: absolute; 
+	left: 650px; /* posiciona para a esquerda */ 
+	top: 620px; /* posiciona para baixo */
+}
